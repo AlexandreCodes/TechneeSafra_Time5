@@ -7,9 +7,9 @@ Segmentação de clientes baseada no balanço de entrada e saída da conta
 
 - Risco iminente de **inadimplência**
 - Risco de **inadimplência** 2
-- Risco de** inadimplência** 1
+- Risco de **inadimplência** 1
 - Neutro
-- Possível** investidor**
+- Possível **investidor**
 - **Investidor**
 
 ![alt text](https://i.ibb.co/4mpS5vH/img.png)
