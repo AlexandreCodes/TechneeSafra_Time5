@@ -42,7 +42,7 @@ A previsão de Saúde financeira de clientes é uma projeto utilizando um dataset f
 ## Time 5
 
 - Alexandre França
-- Guilhemo Valdez
+- Guilhermo Valdez
 - Luiz Guilherme Motta
 - Nicolas Sathler de Araujo
 - Rodrigo Coimbra
