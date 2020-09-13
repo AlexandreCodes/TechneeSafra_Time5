@@ -14,12 +14,16 @@ Segmentação de clientes baseada no balanço de entrada e saída da conta
 
 ![alt text](https://i.ibb.co/4mpS5vH/img.png)
 
+#  Pré-requisitos
+- Conexão ao banco de dados MySQL Local criado para este projeto (verificar config.ini)
+
 # Descrição técnica
 
 - Desenvolvido em Python 3.7
 - Sklearn API para treino do K-Means
 - 6 Clusters (Baseado no Elbow Method)
 - PyInstaller 4.0 para geração de .exe standalone
+- MySQL 8
 
 Informações completas do treino do modelo e dependências disponíveis no jupyter notebook '00-Criacao_Dataset_Modelagem_KMeans.ipynb' e no arquivo 'requirements.txt' respectivamente.
 
